@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bahadır Ünal</h1>
 <h3 align="center">Senior Computer Engineering student that highly motivated to learn web application and mobile development. Also has constant enthusiasm for new technologies.</h3>
 
-- 🔭 I’m currently working on [TEDU App](https://github.com/TEDUAPP)
+- 🔭 I’m currently working on ReactJS NestJS and MongoDB as Full-Stack
 
-- 🌱 I’m currently learning **Swift 5 and Web Dev.**
+- 🌱 I’m currently researching about **Swift 5**
 
 - 💬 Ask me about **Flutter**
 
