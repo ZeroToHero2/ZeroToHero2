@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bahadır Ünal</h1>
-<h3 align="center">Senior Computer Engineering student that highly motivated to learn web application and mobile development. Also has constant enthusiasm for new technologies.</h3>
+<h3 align="center">Computer Engineer that highly motivated to learn web application and mobile development. Also has constant enthusiasm for new technologies.</h3>
 
 - 🔭 I’m currently working on ReactJS NestJS and MongoDB as Full-Stack
 
