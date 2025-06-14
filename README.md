@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on ReactJS NestJS and MongoDB as Full-Stack
 
-- 🌱 I’m currently researching about **Swift 5**
+- 🌱 I’m currently researching about **Java Spring Boot**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **NodeJS / ReactJS / Flutter**
 
 - 📫 How to reach me **bahadir.unal@tedu.edu.tr**
 
